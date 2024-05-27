@@ -29,6 +29,8 @@
 //
 #include "coaa.h"
 #include "view1090.h"
+#include "aircraft_state.h"
+
 //
 // ============================= Utility functions ==========================
 //
